@@ -13,6 +13,6 @@ I will upload the weekly course materials prior to each session. Additional mate
 
 | Date   | Topic                 |  Assignment until |
 | -------| ----------------------|-------------------|
-| 05.11  | Introduction          | 10.11.20 - 11.59pm |
-| 12.11  | tba                   | 17.11.20 - 11.59pw  |
+| 05.11  | Introduction          | 10.11 - 11.59 pm |
+| 12.11  | tba                   | 17.11 - 11.59 pm  |
 ....

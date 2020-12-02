@@ -16,5 +16,6 @@ I will upload the weekly course materials prior to each session. Additional mate
 | 05.11  | Introduction          | 10.11 - 11.59 pm |
 | 12.11  | Dictionaries, tuples, errors                  | 17.11 - 11.59 pm  |
 | 19.11  | Pandas                  | 24.11 - 11.59 pm  |
-| 16.11  | Control Flow Op.                 | 01.12 - 11.59 pm  |
+| 26.11  | Control Flow Op.                 | 01.12 - 11.59 pm  |
+| 03.12  | Control Flow Op.                 | 08.12 - 11.59 pm  |
 

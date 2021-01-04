@@ -19,4 +19,7 @@ I will upload the weekly course materials prior to each session. Additional mate
 | 26.11  | Control Flow Op.                 | 01.12 - 11.59 pm  |
 | 03.12  | Functions                | 08.12 - 11.59 pm  |
 | 10.12  | Primer Numpy, Plotting                | ----  |
+|   | Holidays                 | ----  |
+|  14.01 | PsychoPy I                  | ----  |
+
 

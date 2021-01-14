@@ -21,5 +21,9 @@ I will upload the weekly course materials prior to each session. Additional mate
 | 10.12  | Primer Numpy, Plotting                | ----  |
 |   | Holidays                 | ----  |
 |  14.01 | PsychoPy I                  | ----  |
+|  21.01 | PsychoPy II                 | ----  |
+|  28.01 | PsychoPy III                  | ----  |
+|  04.02 | PsychoPy IV                  |  09.02 - 11.59pm |
+
 
 

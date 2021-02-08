@@ -24,6 +24,9 @@ I will upload the weekly course materials prior to each session. Additional mate
 |  21.01 | PsychoPy II                 | ----  |
 |  28.01 | PsychoPy III                  | ----  |
 |  04.02 | PsychoPy IV                  |  09.02 - 11.59pm |
+|  11.02 | Pandas: Handling Dataframes I                  |  16.02 - 11.59pm |
+|  18.02 | Pandas: Handling Dataframes  II               |  final exam: 01.04 - 2 pm  |
+
 
 
 
